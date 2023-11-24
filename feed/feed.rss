@@ -1,0 +1,15 @@
+<rss version="2.0">
+ <channel>
+    <title>Games online</title>
+    <description>Website about games online</description>
+    <link>https://noemivarela1.github.io/projectRSS/</link>
+    <pubDate>Fri, 24 Nov 2023 09:30:02 GMT</pubDate>
+    <managingEditor>noemivarela1@gmail.com</managingEditor>
+    <item>
+        <title>Ikariam</title>
+        <link>https://noemivarela1.github.io/projectRSS/</link>
+        <pubDate>Fri, 24 Nov 2023 09:40:02 GMT</pubDate>
+        <description>Ikariam</description>
+    </item>
+ </channel>
+</rss>
